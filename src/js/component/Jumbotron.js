@@ -3,10 +3,10 @@ import React from "react";
 export default function Jumbotron() {
 	return (
 		<div className="jumbotron">
-			<h1 className="display-4">Hello, world!</h1>
+			<h1 className="display-4">Landing Page React JS</h1>
 			<p className="lead">
-				This is a simple hero unit, a simple jumbotron-style component
-				for calling extra attention to featured content or information.
+				This is an example landing page, built using React JS and
+				bootstrap. Using several components making up rendered page.
 			</p>
 			<hr className="my-4" />
 			<p>

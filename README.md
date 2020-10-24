@@ -1,10 +1,6 @@
-# Hello World with React boilerplate
-<p>
-  <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
-  </a>
-</p>
+# React JS Landing Page Example
 
-This template is similar to create-react-app but it's meant for 4Geeks Academy students.
+This is an example landing page, built using React JS and bootstrap. Using several components making up rendered page.
 
 ##### Download the boilerplate using git
 
