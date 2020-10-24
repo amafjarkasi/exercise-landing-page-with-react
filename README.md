@@ -1,6 +1,6 @@
 # React JS Landing Page Project
 
-This is a project landing page, built using React JS and bootstrap. Using several components making up rendered page. 
+This is a project landing page, built using React JS and bootstrap. Using several components making up a rendered landing page.
 
 ##### Download the boilerplate using git
 
