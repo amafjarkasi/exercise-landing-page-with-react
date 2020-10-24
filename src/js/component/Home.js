@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./Header";
+import Navbar from "./Navbar";
 import Jumbotron from "./Jumbotron";
 import Body from "./Body";
 import Footer from "./Footer";
@@ -8,7 +8,8 @@ import Footer from "./Footer";
 export function Home() {
 	return (
 		<>
-			<Header />
+			<Navbar />
+			<p>&nbsp;</p>
 			<div className="container">
 				<Jumbotron />
 				<Body />

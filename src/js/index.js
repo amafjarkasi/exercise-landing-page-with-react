@@ -10,9 +10,6 @@ import "../styles/index.scss";
 
 //import your own components
 import { Home } from "./component/Home.js";
-// import { Jumbotron } from "./component/Jumbotron.js";
-// import { Body } from "./component/Body.js";
-// import { Footer } from "./component/Footer.js";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));
